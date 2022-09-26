@@ -1,1 +1,3 @@
 # Go-Rust
+
+Hello, Rust!
